@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP.Algs.2.Graphs", "MP.Algs.2.Graphs\MP.Algs.2.Graphs.csproj", "{CF0EFB1B-72D2-4B29-AC81-8AAA5F7BD8B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.Hanoi.Tower", "Wpf.Hanoi.Tower\Wpf.Hanoi.Tower.csproj", "{68A7C808-BACF-4D22-91F5-4033FB3430FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{CF0EFB1B-72D2-4B29-AC81-8AAA5F7BD8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF0EFB1B-72D2-4B29-AC81-8AAA5F7BD8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF0EFB1B-72D2-4B29-AC81-8AAA5F7BD8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A7C808-BACF-4D22-91F5-4033FB3430FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A7C808-BACF-4D22-91F5-4033FB3430FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A7C808-BACF-4D22-91F5-4033FB3430FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A7C808-BACF-4D22-91F5-4033FB3430FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

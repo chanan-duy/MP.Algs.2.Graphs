@@ -21,6 +21,8 @@ public partial class MainWindow
         {
             _rods[i] = new Stack<Rectangle>();
         }
+
+        SetupInitialState(3);
     }
 
     private void StartButton_Click(object sender, RoutedEventArgs e)

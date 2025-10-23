@@ -4,7 +4,7 @@
 
 ## Видео
 
-![Video](static/3.mp4)
+![Video](static/3.gif)
 
 ## В начале
 

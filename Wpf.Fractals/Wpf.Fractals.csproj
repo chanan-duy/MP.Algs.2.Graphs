@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="static\" />
+        <Folder Include="static\"/>
     </ItemGroup>
 
 </Project>

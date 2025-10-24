@@ -4,10 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="Fractals" Height="800" Width="800">
+        Title="Fractals" Height="800" Width="800" MinHeight="200" MinWidth="200">
     <Grid>
         <Canvas Name="FractalsCanvas" Background="Black" />
-        <Button Content="Draw Fractal" Click="DrawFractal_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10"
-                Padding="10,5" />
+        <Button Content="Draw" Click="DrawFractal_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="16"
+                Padding="18,8" />
     </Grid>
 </Window>

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.Fractals.Sierpinski", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP.Prims.Algorithm", "MP.Prims.Algorithm\MP.Prims.Algorithm.csproj", "{CA130A41-A407-45E6-AC97-7DC2DA1E3C0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP.Kruskals.Algorithm", "MP.Kruskals.Algorithm\MP.Kruskals.Algorithm.csproj", "{4E09DE5F-2673-4336-BB4A-FA676C10741E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CA130A41-A407-45E6-AC97-7DC2DA1E3C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA130A41-A407-45E6-AC97-7DC2DA1E3C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA130A41-A407-45E6-AC97-7DC2DA1E3C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E09DE5F-2673-4336-BB4A-FA676C10741E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E09DE5F-2673-4336-BB4A-FA676C10741E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E09DE5F-2673-4336-BB4A-FA676C10741E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E09DE5F-2673-4336-BB4A-FA676C10741E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

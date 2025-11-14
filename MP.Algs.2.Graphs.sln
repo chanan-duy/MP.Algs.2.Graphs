@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP.Kruskals.Algorithm", "MP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP.BellmanFord.Algorithm", "MP.BellmanFord.Algorithm\MP.BellmanFord.Algorithm.csproj", "{5D84655C-67C1-4235-A0B2-C060D7DFB5A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP.Floyds.Algorithm", "MP.Floyds.Algorithm\MP.Floyds.Algorithm.csproj", "{4E439352-DFB8-443B-9602-135F207B92DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{5D84655C-67C1-4235-A0B2-C060D7DFB5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D84655C-67C1-4235-A0B2-C060D7DFB5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D84655C-67C1-4235-A0B2-C060D7DFB5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E439352-DFB8-443B-9602-135F207B92DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E439352-DFB8-443B-9602-135F207B92DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E439352-DFB8-443B-9602-135F207B92DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E439352-DFB8-443B-9602-135F207B92DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
